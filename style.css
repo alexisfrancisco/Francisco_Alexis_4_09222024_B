@@ -277,6 +277,15 @@ a:hover {
     margin-left: 0;
 }
 
+.col-sm-head{
+    font-size: 38px;
+    color: #000000;
+}
+
+#black-text {
+    color: #333333;
+}
+
 .row.row-no-gutters > [class^="col-"],
 .row.row-no-gutters > [class*=" col-"] {
     padding-right: 0;
@@ -781,7 +790,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
@@ -828,7 +837,7 @@ h4 {
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta%20made%20sign%20orange.jpg");
+    background-image: url("img/atlanta%20made%20sign%20orange%20-%20resize.jpg");
 }
 
 @media (max-width: 1024px) {
