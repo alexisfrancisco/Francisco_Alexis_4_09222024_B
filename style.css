@@ -278,7 +278,7 @@ a:hover {
 }
 
 .col-sm-12{
-    font-size: 38px;
+    font-size: 28pt;
     color: #000000;
 }
 
@@ -388,7 +388,7 @@ a:hover {
         right: 0;
     }
     .nav-center {
-        text-align: center;
+        align: center;
     }
     .nav-center .navbar-header {
         width: 100%;
@@ -456,6 +456,7 @@ nav .caret {
 
 .btn {
     margin: 0 5px 5px 0;
+    font-size: 16pt!important;
 }
 
 .btn.pull-right {
