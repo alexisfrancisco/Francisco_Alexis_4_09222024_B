@@ -388,7 +388,7 @@ a:hover {
         right: 0;
     }
     .nav-center {
-        align: center;
+        text-align: center;
     }
     .nav-center .navbar-header {
         width: 100%;
