@@ -688,6 +688,9 @@ h4 {
 .ltc-atomic-tangerine {
   color: #f3976c !important;
 }
+.ltc-dark-slate-blue {
+  color: #364577 !important;
+}
 .ltc-atomic-tangerine:hover {
   color: #c27956 !important;
 }
@@ -914,4 +917,13 @@ h4 {
   .bloc-mob-center-text {
     text-align: center;
   }
+}
+#name {
+    margin-left: 10px;
+}
+#email {
+    margin-left: 10px;
+}
+#input_504 {
+    margin-left: 10px;
 }
